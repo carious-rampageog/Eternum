@@ -204,4 +204,4 @@ This repository serves as the official landing page for Eternum. The software is
 **Get the most recent version of Eternum today!**
 
 ---
-**Last updated:** 2026-11-07 21:18:52 UTC
+**Last updated:** 2026-11-08 00:59:45 UTC
